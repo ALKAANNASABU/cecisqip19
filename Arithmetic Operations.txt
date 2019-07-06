@@ -1,0 +1,14 @@
+https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/113382355
+
+
+
+
+if __name__ == '__main__':
+    a = int(raw_input())
+    b = int(raw_input())
+    sum=a+b
+    difference =a-b
+    product =a*b
+    print(sum)
+    print(difference)
+    print(product)

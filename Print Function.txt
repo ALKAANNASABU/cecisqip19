@@ -1,0 +1,5 @@
+https://www.hackerrank.com/challenges/python-print/submissions/code/113392692
+
+
+
+from __future__ import print_func
